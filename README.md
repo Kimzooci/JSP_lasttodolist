@@ -2,11 +2,7 @@
 
 ## 1 개요
 
-**Java Server Page(이하 JSP)** 기술의 경우 자체적 제한이 존재하며, 특히 Spring Boot와 결합할 때 훨씬 더 제한된다는 약점이 있습니다. 따라서 View 단의 Template Engine을 적용함에 있어 JSP 보다는 Thymeleaf를 채택하는 것을 더 나은 대안으로 고려해야 합니다. Spring Boot 진영에서도 기본적으로는 View 영역에 JSP를 사용하는 것을 더 이상 권장하지 않고 있으며, 이에따라 최근 Web Application들은 이전의 JSP 기술 보다는 Thymeleaf, Freemarker, Groovy, Mustache 등의 Template Engine들이 더 많이 사용되고 있는 추세입니다.
-
-하지만 실제 프로젝트에서 JSP 기술을 메인 템플릿으로 적용하는 경우가 흔치 않은 추세라지만 아직까지는 JSP 기술을 완전히 배제하기에는 조금은 이른 시점인 것도 사실입니다. 실세계에는 여러가지 상황과 이유들로 인해 최신 기술을 도입하기 어려운 사업들이 생각보다 많이 존재하고 이들 프로젝트에서는 여전히 JSP와 같은 오래된 기술을 요구하고 있습니다. 이를테면 기존의 JSP 기반 레거시(web application)을 업그레이드 하는 프로젝트가 있을 수 있겠죠. 이 경우에는 HTML 페이지 구현을 위한 템플릿 매커니즘으로써 JSP는 여전히 유효하고 최선의 옵션이 될 수 있습니다.
-
-이러한 이유들로 **Spring Boot에 기반하여 JSP를 적용**해야 하는 상황을 상정하고 기초적이면서 간단한 **Todo App(Demo)**을 구현해보았습니다.
+이 프로젝트는 JSP(Java Server Pages)를 활용하여 사용자 친화적인 To-Do List 웹 애플리케이션을 개발한 것입니다. 기본적인 CRUD 기능(추가, 삭제, 수정, 완료 여부 체크)을 제공하며, 데이터베이스 연동, 세션 및 쿠키 관리, 유효성 검사 등의 기능을 포함합니다.
 
 ![image](/docs/todo-dashboard-pending.png)
 
