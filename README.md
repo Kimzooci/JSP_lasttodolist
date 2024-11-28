@@ -1,4 +1,4 @@
-# JSP로 구현한 [Todo App] demo project
+# JSP로 구현한 [Todo App] project
 
 ## 개요
 
