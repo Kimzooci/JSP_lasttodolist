@@ -1,4 +1,4 @@
-# Spring Boot와 JSP로 구현한 [Todo App] demo project
+# JSP로 구현한 [Todo App] demo project
 
 ## 1 개요
 
