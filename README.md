@@ -34,37 +34,6 @@ src/main
 
 ```
 
-### 1.2 기술 Spec.
-
-<table style="border: 2px;">
-  <tr>
-    <td align="center"> <b>Tech</b> </td>
-    <td align="center"> <b>Dependency</b> </td>
-  </tr>
-  <tr>
-    <td> <b>Backend</b> </td>
-    <td>
-      <ul>
-        <li><b>Java</b>: java-11-openjdk-11.0.2</li>
-        <li><b>Database</b>: H2 Database 2.1.214</li>
-        <li><b>Spring Boot</b>: Spring Boot 2.7.8</li>
-        <li><b>Spring Framework</b>: Spring Web 5.3.25, Spring Security 5.7.6, Spring Data JPA 2.7.7, etc</li>
-        <li><b>Persistency Framework</b>: Hibernate 5.6.14</li>
-        <li><b>UI Layout</b>: Tiles 3.0.8</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td> <b>Frontend</b> </td>
-    <td>
-      <ul>
-        <li><b>JavaScript Libraries</b>: jQuery 3.5.1</li>
-        <li><b>CSS Library</b>: Bootstrap 5.2.3</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
 ## 2 Project Setup
 
 ### 2.1 Clone 'spring-boot-todo-jsp'
