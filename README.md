@@ -83,10 +83,6 @@ Chrome 이나 Edge 등의 Browser 열고 다음 주소로 접속하여 애플리
 
 참고로 **Todo App**은 실제 Production이 아닌 구현 예시를 위한 **demo project**이므로 화면의 구성과 프로세스가 효율적이지 않은 점을 양지하시기 바랍니다. 구현 예시를 위한 약식의 화면 배치일 뿐입니다.
 
-### 메인 페이지
-
-![image](/docs/todo-home.png)
-
 
 ### Todo 관리 페이지
 
